@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Oily and Smelly]]></title>
+        <description><![CDATA[Oily and Smelly]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 24 Nov 2015 05:24:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Oily and Smelly]]></title>
+            <description><![CDATA[<article><h1>About Oily and Smelly</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sem libero, pretium a scelerisque molestie, pharetra id neque. Etiam eget nulla lectus. Sed rutrum at eros in aliquet. Phasellus ac mi vel mi euismod varius. Suspendisse ut enim tortor. Etiam in odio id nunc placerat consectetur eget vel lectus. Fusce id purus ut tellus pretium tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu magna elit. Etiam dolor libero, feugiat id nunc vel, convallis lacinia magna. Duis ac tortor at dui porta sagittis eu sit amet enim. Duis ornare tortor massa, sit amet venenatis metus vehicula eu.</p></article>]]></description>
+            <link>undefinedabout-oily-and-smelly/index.html</link>
+            <guid isPermaLink="false">b2a9fe8d-2b9a-444d-a740-647151ccfbd4</guid>
+            <pubDate>Tue, 24 Nov 2015 05:24:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
